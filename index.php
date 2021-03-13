@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>Hello heroku</title>
  </head>
  <body>
- <?php echo '<p>Hello World!!'.{$_GET["name"]}.'</p>'; ?> 
+ <?php echo '<p>Hello World ¡'.{$_GET["name"]}.'!</p>'; ?> 
  </body>
 </html>
